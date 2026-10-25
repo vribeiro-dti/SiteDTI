@@ -1,0 +1,4 @@
+# VERSÃO DE VERIFICAÇÃO: bloqueia buscadores.
+# Na publicação oficial, troque 'Disallow: /' por 'Allow: /'.
+User-agent: *
+Disallow: /
